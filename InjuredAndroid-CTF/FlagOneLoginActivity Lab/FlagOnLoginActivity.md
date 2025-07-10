@@ -1,7 +1,3 @@
-Here's the modified write-up reflecting that you used **jadx** instead of **apktool** for decompiling the APK:
-
----
-
 # FlagOnLoginActivity
 
 ## Challenge Description
